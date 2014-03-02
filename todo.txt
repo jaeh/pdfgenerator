@@ -1,0 +1,23 @@
+sourcecode - the book:
+
+features:
+your book will contain the newest version of the sourcecode of *******.
+when you order the book through our page, 
+we always pull the newest version of the code from github, format it according to your settings, then preview it and send it off to print once you agree.
+
+book creation features for future:
+one, two, three columns,
+portrait or landscape,
+a3, a4, a5, letter
+font size
+font families
+
+logos in footer always stay the same.
+
+
+
+NEEDS:
+First page for book,
+
+logos for the footer if others should be used
+
